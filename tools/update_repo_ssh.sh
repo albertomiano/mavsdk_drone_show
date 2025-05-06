@@ -47,7 +47,7 @@ DEFAULT_SSH_GIT_URL="git@github.com:albertomiano/mavsdk_drone_show.git"
 DEFAULT_HTTPS_GIT_URL="https://github.com/albertomiano/mavsdk_drone_show.git"
 
 # LED control command (assumes virtualenv Python path)
-LED_CMD="/home/droneshow/mavsdk_drone_show/venv/bin/python /home/droneshow/mavsdk_drone_show/led_indicator.py"
+LED_CMD="/home/alberto/mavsdk_drone_show/venv/bin/python /home/alberto/mavsdk_drone_show/led_indicator.py"
 
 # -------------------------------------------------
 # Logging Setup - logs are written to /tmp/update_repo.log
